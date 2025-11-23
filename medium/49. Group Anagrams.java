@@ -12,7 +12,7 @@ class Solution {
             }
             StringBuilder sb = new StringBuilder();
             for (int count : freq) {
-                sb.append(count).append("#"); // separator to avoid ambiguity
+                sb.append(count).append("#"); 
             }
 
             String key = sb.toString();
