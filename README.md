@@ -1,25 +1,71 @@
 # Leetcode-
-LeetCode Java Solutions
 
-Welcome to my LeetCode Java Solutions repository!
-I’m a Computer Science student learning programming and algorithms, and this repo is where I practice solving problems from LeetCode using Java.
+# LeetCode Java Solutions 🖥️💡
 
-Repository: https://github.com/darkatwi/Leetcode-
+Welcome to my **LeetCode Java Solutions** repository! This is where I practice solving **algorithm and data structure problems** from LeetCode using **Java**.
 
-Structure
-Easy/
-Medium/
-Hard/
+I’m a **Computer Science student** improving my programming and problem-solving skills, and this repo is a record of my journey.
 
-Files are named like 217.ContainsDuplicate.java. Each folder groups problems by difficulty.
+---
 
+## 📂 Repository Structure
 
-How to Use
-Clone the repository. Open a folder for the difficulty you’re interested in (Easy / Medium / Hard). Open the Java file in your IDE or compile and run it.
+```
+LeetCode-Java-Solutions/
+├── Easy/
+├── Medium/
+└── Hard/
+```
 
+* **Folders** are grouped by difficulty: Easy / Medium / Hard.
+* **File naming convention:** `<problem_number>.<problem_name>.java`
+  Example: `217.ContainsDuplicate.java`
 
-About Me
-I’m a student learning and improving my problem-solving skills. All solutions are in Java and include comments explaining the logic. I am adding more solutions as I continue learning.
-Feel free to explore, use, and learn from the code. If you have suggestions or improvements, I’d love for you to open an issue or pull request.
+---
 
-Happy coding! 🚀
+## ⚡ How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/darkatwi/Leetcode-.git
+cd Leetcode-
+```
+
+2. Navigate to the folder corresponding to the difficulty level you want to explore.
+
+3. Open the Java file in your IDE, compile, and run:
+
+```bash
+javac 217.ContainsDuplicate.java
+java 217.ContainsDuplicate
+```
+
+4. Study the solution and comments explaining the logic.
+
+---
+
+## ✨ About This Repository
+
+* All solutions are written in **Java**.
+* Each solution contains **comments and explanations** to help understand the logic.
+* New problems are continuously added as I practice and learn.
+
+---
+
+## 💬 Contributing
+
+Feel free to explore, use, or learn from the code. If you have **suggestions, improvements, or optimizations**, please open an **issue** or submit a **pull request**.
+
+---
+
+## 🚀 About Me
+
+I’m a **Computer Science student** passionate about algorithms, problem-solving, and improving my coding skills.
+
+---
+
+## Happy coding! 🎉
+
+---
+
