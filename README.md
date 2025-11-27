@@ -3,7 +3,6 @@
 # LeetCode Java Solutions 🖥️💡
 
 Welcome to my **LeetCode Java Solutions** repository! This is where I practice solving **algorithm and data structure problems** from LeetCode using **Java**.
-
 I’m a **Computer Science student** improving my programming and problem-solving skills, and this repo is a record of my journey.
 
 ---
@@ -56,14 +55,6 @@ java 217.ContainsDuplicate
 ## 💬 Contributing
 
 Feel free to explore, use, or learn from the code. If you have **suggestions, improvements, or optimizations**, please open an **issue** or submit a **pull request**.
-
----
-
-## 🚀 About Me
-
-I’m a **Computer Science student** passionate about algorithms, problem-solving, and improving my coding skills.
-
----
 
 ## Happy coding! 🎉
 
